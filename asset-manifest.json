@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/abuskoo/static/css/main.c61820ac.css",
+    "main.css": "/abuskoo/static/css/main.dd98e162.css",
     "main.js": "/abuskoo/static/js/main.2670f053.js",
     "static/js/787.0693ef91.chunk.js": "/abuskoo/static/js/787.0693ef91.chunk.js",
     "static/media/logo.svg": "/abuskoo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/abuskoo/index.html",
-    "main.c61820ac.css.map": "/abuskoo/static/css/main.c61820ac.css.map",
+    "main.dd98e162.css.map": "/abuskoo/static/css/main.dd98e162.css.map",
     "main.2670f053.js.map": "/abuskoo/static/js/main.2670f053.js.map",
     "787.0693ef91.chunk.js.map": "/abuskoo/static/js/787.0693ef91.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c61820ac.css",
+    "static/css/main.dd98e162.css",
     "static/js/main.2670f053.js"
   ]
 }
