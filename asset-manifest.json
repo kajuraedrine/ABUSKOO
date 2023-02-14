@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/abuskoo/static/css/main.a45fc73a.css",
+    "main.css": "/abuskoo/static/css/main.3c0978eb.css",
     "main.js": "/abuskoo/static/js/main.947cdfbe.js",
     "static/js/787.0693ef91.chunk.js": "/abuskoo/static/js/787.0693ef91.chunk.js",
     "static/media/desktop.svg": "/abuskoo/static/media/desktop.b1c4368918a23c4787f4e790b0153151.svg",
     "static/media/logo.svg": "/abuskoo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/abuskoo/index.html",
-    "main.a45fc73a.css.map": "/abuskoo/static/css/main.a45fc73a.css.map",
+    "main.3c0978eb.css.map": "/abuskoo/static/css/main.3c0978eb.css.map",
     "main.947cdfbe.js.map": "/abuskoo/static/js/main.947cdfbe.js.map",
     "787.0693ef91.chunk.js.map": "/abuskoo/static/js/787.0693ef91.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a45fc73a.css",
+    "static/css/main.3c0978eb.css",
     "static/js/main.947cdfbe.js"
   ]
 }
