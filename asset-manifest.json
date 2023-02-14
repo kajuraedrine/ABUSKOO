@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/abuskoo/static/css/main.efc81dad.css",
-    "main.js": "/abuskoo/static/js/main.db62e320.js",
+    "main.css": "/abuskoo/static/css/main.66d4b6b5.css",
+    "main.js": "/abuskoo/static/js/main.87c092b8.js",
     "static/js/787.0693ef91.chunk.js": "/abuskoo/static/js/787.0693ef91.chunk.js",
-    "static/media/desktop.svg": "/abuskoo/static/media/desktop.2b58059551795fd51cec4a6a950a8bea.svg",
+    "static/media/desktop.svg": "/abuskoo/static/media/desktop.42aa3288cb9da51e1cfa46707b318edb.svg",
     "static/media/logo.svg": "/abuskoo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/abuskoo/index.html",
-    "main.efc81dad.css.map": "/abuskoo/static/css/main.efc81dad.css.map",
-    "main.db62e320.js.map": "/abuskoo/static/js/main.db62e320.js.map",
+    "main.66d4b6b5.css.map": "/abuskoo/static/css/main.66d4b6b5.css.map",
+    "main.87c092b8.js.map": "/abuskoo/static/js/main.87c092b8.js.map",
     "787.0693ef91.chunk.js.map": "/abuskoo/static/js/787.0693ef91.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efc81dad.css",
-    "static/js/main.db62e320.js"
+    "static/css/main.66d4b6b5.css",
+    "static/js/main.87c092b8.js"
   ]
 }
