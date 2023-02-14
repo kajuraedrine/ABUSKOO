@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/abuskoo/static/css/main.44efa204.css",
-    "main.js": "/abuskoo/static/js/main.5b12661c.js",
+    "main.css": "/abuskoo/static/css/main.83672312.css",
+    "main.js": "/abuskoo/static/js/main.db62e320.js",
     "static/js/787.0693ef91.chunk.js": "/abuskoo/static/js/787.0693ef91.chunk.js",
-    "static/media/desktop.svg": "/abuskoo/static/media/desktop.1c411cb803dc72d05c9e58302cb45363.svg",
+    "static/media/desktop.svg": "/abuskoo/static/media/desktop.2b58059551795fd51cec4a6a950a8bea.svg",
     "static/media/logo.svg": "/abuskoo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/abuskoo/index.html",
-    "main.44efa204.css.map": "/abuskoo/static/css/main.44efa204.css.map",
-    "main.5b12661c.js.map": "/abuskoo/static/js/main.5b12661c.js.map",
+    "main.83672312.css.map": "/abuskoo/static/css/main.83672312.css.map",
+    "main.db62e320.js.map": "/abuskoo/static/js/main.db62e320.js.map",
     "787.0693ef91.chunk.js.map": "/abuskoo/static/js/787.0693ef91.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44efa204.css",
-    "static/js/main.5b12661c.js"
+    "static/css/main.83672312.css",
+    "static/js/main.db62e320.js"
   ]
 }
